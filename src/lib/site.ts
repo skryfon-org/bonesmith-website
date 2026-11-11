@@ -1,0 +1,5 @@
+export const VERSION = 'v0.0.0'
+export const REPO = 'https://github.com/skryfon-org/bonesmith'
+export const NPM = 'https://www.npmjs.com/package/create-bonesmith'
+export const INSTALL_CMD = 'npm create bonesmith@latest my-app'
+export const SITE_URL = 'https://skryfon-org.github.io/bonesmith-website'
